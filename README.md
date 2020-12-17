@@ -1,5 +1,26 @@
 ### Hi there 👋
 
+#### I'm a Frontend Developer, Data Analyst and IOT Enthusiast from Mumbai, India.
+
+
+<p>
+<a href="https://sanilrod.github.io/" target="_blank">
+  <img src="https://img.shields.io/badge/website-%23E34F26.svg?&style=for-the-badge" />
+</a> 
+
+<a href="https://twitter.com/sanil_rodrigues" target="_blank">
+  <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
+</a> 
+
+<a href="https://www.linkedin.com/in/sanil-rodrigues-8192b6199/" target="_blank">
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+</a> 
+</p>
+
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sanilrod" alt="sanilrod" /> </p>
+
+
 <!--
 **sanilrod/sanilrod** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
