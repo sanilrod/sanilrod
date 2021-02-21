@@ -21,7 +21,7 @@
 
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sanilrod" alt="sanilrod" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanilrod" alt="sanilrod" /> </p> -->
 
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanilrod&hide=css&theme=nord" alt="sanilrod" /> </p>
 
