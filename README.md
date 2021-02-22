@@ -20,7 +20,7 @@
 </p>
 
 
-<img align="right" alt="GIF" height="300px" src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" />
+<img align="center" alt="GIF" height="300px" src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" />
 
 
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanilrod" alt="sanilrod" /> </p>
