@@ -2,7 +2,7 @@
 
 ### Hi there 👋
 
-#### I'm a Frontend Developer, Data Analyst and IOT Enthusiast from Mumbai, India.
+#### I'm a Frontend Developer, Data Analyst.
 
 
 <p>
