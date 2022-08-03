@@ -2,7 +2,7 @@
 
 ### Hi there 👋
 
-#### I'm a Frontend Developer, Data Analyst.
+#### I'm a Frontend Developer and Data Analyst.
 
 
 <p>
